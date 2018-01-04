@@ -21,3 +21,10 @@ Baseline installation of a Linux server hosting a Flask web application.
 * Configured UFW to allow incoming connections for SSH, HTTP, and NTP
 * Created a new user called Grader with sudo permission and SSH key pair
 * Cloned and setup your Item Catalog from Github (changed application.py to __init__.py and moved the backend from Sqlite to Postgresql)
+* Disabled root login
+* Required users to authenticate using RSA keys
+
+## Resources
+* Udacity
+* StackOverflow
+* GitHub
